@@ -31,4 +31,4 @@ The second part is about upgrading the deep learning model to detect and recogni
 4.  `train_frcnn.py -p annotation.txt` : training Faster R-CNN with data from the annotation text file
 5.  `test_frcnn.py -p path/test_data/` : testing Faster R-CNN 
 
-![Lisa picture](https://github.com/alexattia/SimpsonRecognition/blob/master/pics/mapple_lisa.png)
+![Lisa picture](https://github.com/MuppalaSunnyChowdhary/SimpsonRecognitionProject/blob/master/pics/mapple_lisa.png)
